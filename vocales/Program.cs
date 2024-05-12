@@ -17,5 +17,5 @@ foreach (char vocales in texto)
     }
 }
 Console.WriteLine("El texto tiene " + contador + " vocales");
-
+Console.WriteLine();
 
